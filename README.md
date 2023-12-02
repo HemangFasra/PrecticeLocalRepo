@@ -1,0 +1,1 @@
+This is Prectice file for INIT command.
